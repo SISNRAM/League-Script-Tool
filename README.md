@@ -21,3 +21,5 @@ Automatically plays BotIntermediate games to earn xp and complete missions.
 🗳Automatic loot manipulation.
 
 ✅I will Release more updates soon and probably add more projects stay in touch for more!
+
+⚠Important⚠ Make sure to Extract the League Script Tool.rar and open the README file it contains instructions that maybe useful for you.
