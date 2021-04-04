@@ -25,7 +25,9 @@ Automatically plays BotIntermediate games to earn xp and complete missions.
 💥Requierements:
 
 .League of legends Client with a 1280 * 720 screen resolution.
+
 .A monitor with a 1920 * 1080 screen resolution.
+
 .NET framework 4.7 installed on computer.
 
 ⚠Important⚠ Make sure to Extract the League Script Tool.rar and open the README file it contains instructions that maybe useful for you. 
