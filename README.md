@@ -30,7 +30,7 @@ Automatically plays BotIntermediate games to earn xp and complete missions.
 
 .League of legends Client with a 1280 * 720 screen resolution.
 
-.A monitor with a 1920 * 1080 screen resolution.
+.A monitor with a 1920 * 1080 screen resolution. ( for autobot only other fuctions work on any resolution )
 
 .NET framework 4.7 installed on computer.
 
